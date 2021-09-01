@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/kxo818erf5p62t7r/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-3-3-events/branch/master)
 
-## Deployment: https://sergius92739.github.io/ahj-3.3-events/
+### Deployment: https://sergius92739.github.io/ahj-3.3-events/
 
 ## Галерея изображений с проверкой URL (задача со звёздочкой)
 
